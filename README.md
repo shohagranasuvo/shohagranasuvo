@@ -1,94 +1,85 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=🚀+Hey%2C+I'm+Shohag+Rana+Suvo!+👋;AI+Innovator+%7C+CSE+Student;Driven+by+Algorithms+%26+Intelligence;Welcome+to+My+GitHub+Universe!+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&color=FF0066¢er=true&vCenter=true&width=650&lines=🚀+Shohag+Rana+Suvo+Has+Entered+the+Matrix!;AI+Trailblazer+%7C+CSE+Code+Wizard;Algorithms+Are+My+Superpower;Unleashing+Tech+Chaos+on+GitHub!+🔥" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <img src="https://github.com/kothariji/kothariji/raw/main/github-user-contribution.svg" alt="GitHub Contribution" />
+  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="400px" alt="Tech Chaos GIF" />
 </div>
 
 ---
 
-## 🧑‍💻 **About Me**  
-I’m Shohag Rana Suvo—a dedicated **Computer Science & Engineering (CSE)** student at **American International University-Bangladesh (AIUB)** with a fervor for **Artificial Intelligence**, **algorithm design**, and **competitive programming**. I’m committed to solving real-world problems through innovative technology and continuously honing my expertise.
+## 🧠 **Who’s This Code Maverick?**  
+I’m **Shohag Rana Suvo**—a fearless **Computer Science & Engineering (CSE)** student at **AIUB**, hacking the boundaries of **Artificial Intelligence**, **algorithm mastery**, and **code-fueled innovation**. I live for the thrill of solving impossible problems and architecting solutions that defy the ordinary.
 
-- 🎓 **Education:** Pursuing a B.Sc. in CSE at AIUB  
-- 🏆 **Strengths:** Competitive Programming | Problem-Solving | AI Development  
-- 🎯 **Currently Mastering:** Advanced Algorithms | Java | Python  
-- 💡 **Core Interests:** Artificial Intelligence | Data Structures | Machine Learning  
-- 🚀 **Goal:** To architect intelligent, impactful AI-driven solutions  
+- 🎓 **Training Ground:** B.Sc. in CSE @ American International University-Bangladesh  
+- ⚡ **Superpowers:** Competitive Programming | AI Development | Problem-Solving Insanity  
+- 🎯 **Current Obsessions:** Advanced Algorithms | Java | Python  
+- 🌌 **Fuel:** Artificial Intelligence | Data Structures | Machine Learning  
+- 💥 **Endgame:** To build mind-blowing AI systems that redefine what’s possible  
 
 ---
 
-## 🛠️ **Technical Expertise**  
-Here’s the toolkit I wield to build cutting-edge solutions:  
+## ⚙️ **My Tech Arsenal**  
+Armed with the ultimate tools to dominate the digital frontier:  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,c,git,github,linux,vscode" alt="Tech Stack" />
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300px" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="300px" alt="Coding Fury GIF" />
 </div>
 
 ---
 
-## 📊 **GitHub Metrics**  
+## 📊 **GitHub Domination**  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShohagRanaSuvo&show_icons=true&theme=dracula" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShohagRanaSuvo&theme=dracula" height="160" alt="Streak Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ShohagRanaSuvo&theme=dracula&no-frame=true&margin-w=10" height="160" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShohagRanaSuvo&show_icons=true&theme=radical&border_radius=10" height="180" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ShohagRanaSuvo&theme=radical&no-frame=true&margin-w=15&column=6" height="180" alt="Trophies" />
 </div>
 
 ---
 
-## 🔥 **Contribution Highlights**  
-<p align="center">
-  <img src="https://github.com/ShohagRanaSuvo/ShohagRanaSuvo/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
----
-
-## 🌟 **Notable Projects**  
-Here’s a snapshot of my standout work:  
+## 🌟 **Epic Creations**  
+Witness the chaos I’ve unleashed:  
 - **Library Management System**  
-  A robust Java-based application streamlining book issuance and returns with an intuitive interface.  
-- **AI-Powered Chatbot**  
-  An intelligent conversational agent leveraging NLP and AI for seamless user interaction.  
-  *[Work in Progress]*  
+  A Java-powered beast that tames book chaos with precision and flair.  
+- **AI Chatbot**  
+  An NLP-driven genius bot ready to outsmart the average human. *[Under Construction]*  
 - **Secure Password Manager**  
-  An encrypted, user-friendly tool designed to safeguard credentials with top-tier security.  
+  A fortress of encryption keeping your secrets locked tighter than a black hole.  
 
-*Explore my repositories for more details and source code!*
+*Dive into my repos for the raw code and madness!*
 
 ---
 
-## 💡 **Inspiration Corner**  
+## 💡 **Code Mantra**  
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Coding Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Coding Quote" />
 </div>
 
 ---
 
-## 🌐 **Let’s Connect**  
-I’m open to collaboration, discussions, and opportunities—reach out!  
+## 🌐 **Plug Into My Network**  
+Ready to join the revolution? Hit me up:  
 <p align="center">
   <a href="https://www.linkedin.com/in/shohag-rana-suvo-81041528b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=333" alt="LinkedIn" />
   </a>
   <a href="https://github.com/ShohagRanaSuvo">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=333" alt="GitHub" />
   </a>
   <a href="https://www.facebook.com/SHOHAGRANASUVO">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=333" alt="Facebook" />
   </a>
   <a href="mailto:shohagranasuvo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=333" alt="Email" />
   </a>
 </p>
 
 ---
 
-### 🎯 **Let’s Innovate Together!**  
-I’m eager to collaborate on groundbreaking projects—let’s shape the future of tech!  
+### 🔥 **Join the Code Uprising!**  
+I’m hunting for collaborators to ignite tech mayhem and build the unimaginable. Let’s break the rules and rewrite the future!  
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2Xxk4neckKS0o/giphy.gif" width="300px" alt="Collaboration GIF" />
+  <img src="https://media.giphy.com/media/JsDQtOQYTg3rG/giphy.gif" width="350px" alt="Revolution GIF" />
 </div>
