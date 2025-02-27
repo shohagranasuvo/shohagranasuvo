@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400px">
+  <img src="https://github.com/kothariji/kothariji/blob/main/github-user-contribution.svg" />
 </div>
 
 ---
@@ -23,7 +23,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/bornmay/bornmay/blob/master/Assets/Developer.gif" width="200px">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
 </div>
 
 ---
@@ -37,11 +37,25 @@
 
 ---
 
+## 🔥 **GitHub Contribution Graph**
+<p align="center">
+  <img src="https://github.com/ShohagRanaSuvo/ShohagRanaSuvo/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🌟 **Featured Projects**
 🚀 **Some of My Coolest Work:**  
 - 📚 **Library Management System** – A Java-based system for managing book issues/returns.  
 - 🤖 **AI Chatbot** – A smart chatbot powered by NLP & AI.  
 - 🔐 **Password Manager** – A secure, encrypted password storage tool.  
+
+---
+
+## 💡 **Random Coding Quote**
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
 ---
 
@@ -63,7 +77,7 @@
 
 ---
 
-### 🎯 **Let's Build Something Crazy Together! 🚀🔥**
+### 🎯 **Let’s Build Something Amazing Together! 🚀🔥**
 <div align="center">
-  <img src="https://media.giphy.com/media/j2pWZpr5RlpCodOB0d/giphy.gif" width="300px">
+  <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="300px">
 </div>
