@@ -1,23 +1,24 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=800&color=FF0066&center=true&vCenter=true&width=650&lines=I'm+Shohag+Rana+Suvo;I+love+coding;Exploring+new+technologies;Passionate+about+AI;Eager+to+learn+and+grow" alt="Typing SVG" />
 </h1>
+
 ---
 
 ## 🧠 **Who’s This Code Maverick?**
-I’m **Shohag Rana Suvo**—a fearless **Computer Science & Engineering (CSE)** student at **American International University-Bangladesh (AIUB)**, pushing the boundaries of **Artificial Intelligence**, **algorithm mastery**, and **code-driven innovation**. I thrive on solving complex problems and crafting solutions that challenge the norm.
+I’m **Shohag Rana Suvo**—a dedicated **Computer Science & Engineering (CSE)** student at **American International University-Bangladesh (AIUB)**, delving into the realms of **Artificial Intelligence**, **algorithm development**, and **innovative coding**. I thrive on tackling complex challenges and developing solutions that push the boundaries of conventional thinking.
 
 - 🎓 **Education:** B.Sc. in CSE @ American International University-Bangladesh
-- ⚡ **Expertise:** Competitive Programming | AI Development | Problem-Solving
-- 🎯 **Currently Exploring:** Advanced Algorithms | Java | Python
+- ⚡ **Expertise:** C++ | Java | Competitive Programming | Problem-Solving
+- 🎯 **Currently Learning:** Python | Advanced Algorithms
 - 🌌 **Interests:** Artificial Intelligence | Data Structures | Machine Learning
-- 💥 **Goal:** To develop innovative AI systems that redefine possibilities
+- 💥 **Goal:** To engineer cutting-edge AI systems that expand the horizons of technology
 
 ---
 
 ## ⚙️ **My Tech Arsenal**
 Equipped with tools to navigate the digital landscape:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,git,github,linux,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,git,github,linux,vscode" alt="Tech Stack" />
 </p>
 
 ---
@@ -32,11 +33,11 @@ Equipped with tools to navigate the digital landscape:
 
 ## 🌟 **Highlighted Projects**
 Explore some of my notable work:
-- **Library Management System**
+- **Library Management System**  
   A Java-based application designed to efficiently manage library operations.
-- **AI Chatbot**
+- **AI Chatbot**  
   An intelligent chatbot utilizing Natural Language Processing. *[In Development]*
-- **Secure Password Manager**
+- **Secure Password Manager**  
   An encrypted tool for secure password storage.
 
 *Visit my repositories for detailed insights and code.*
