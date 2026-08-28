@@ -3,10 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,7,10,15,20&height=220&section=header&text=Shohag%20Rana%20Suvo&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=CSE%20Student%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=FF0066&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Shohag+%F0%9F%91%8B;CSE+Undergrad+%40+AIUB+%F0%9F%8E%93;Competitive+Programmer+%E2%9A%A1;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=shohagranasuvo&color=ff0066&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/shohagranasuvo?label=FOLLOWERS&style=for-the-badge&color=ff0066" alt="Followers" />
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shohagranasuvo&color=ff0066&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/shohagranasuvo?label=FOLLOWERS&style=for-the-badge&color=ff0066" alt="Followers" />
+</p>
 
 </div>
 
