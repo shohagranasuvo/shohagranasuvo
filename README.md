@@ -6,7 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=shohagranasuvo&color=ff0066&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/shohagranasuvo?label=FOLLOWERS&style=for-the-badge&color=ff0066" alt="Followers" />
-<img src="https://img.shields.io/badge/dynamic/json?color=ff0066&style=for-the-badge&label=REPOS&query=public_repos&url=https://api.github.com/users/shohagranasuvo" alt="Repos" />
+
 
 </div>
 
@@ -19,25 +19,24 @@ name: Shohag Rana Suvo
 role: Computer Science & Engineering Student
 university: American International University-Bangladesh (AIUB)
 location: Dhaka, Bangladesh
-focus: [ Artificial Intelligence, Algorithms, Competitive Programming ]
-currently_learning: [ Python, Advanced Data Structures, Machine Learning ]
+focus: [ Artificial Intelligence, Machine Learning, NLP, Algorithms ]
+currently_learning: [ Python, Advanced Data Structures, Deep Learning ]
 fun_fact: "I debug faster than I sleep 😴"
 ```
 
 - 🎓 B.Sc. in CSE @ American International University-Bangladesh
-- ⚡ Comfortable in **C++** and **Java**, sharpening skills in **Python**
+- ⚡ Comfortable in **C++**, **Java**, and **C#**, sharpening skills in **Python**
+- 🤖 Actively building in **AI, Machine Learning, and NLP** — coursework and self-driven projects
 - 🧩 Love competitive programming and untangling hard algorithmic problems
-- 🤖 Diving deeper into **AI / Machine Learning** every week
 - 🌱 Long-term goal: build intelligent systems that solve real problems
 - 📫 Reach me at **shohagranasuvo@gmail.com**
-- ⚡ Fun fact: this README updates itself — check the live stats below!
 
 <br>
 
 ## ⚙️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,git,github,linux,vscode,vim" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,cs,git,github,linux,vscode" alt="Tech Stack" />
 </p>
 
 <br>
@@ -48,57 +47,34 @@ fun_fact: "I debug faster than I sleep 😴"
   <img src="https://raw.githubusercontent.com/shohagranasuvo/shohagranasuvo/output/github-contribution-grid-snake.svg" alt="Snake animation eating my contribution graph" width="100%"/>
 </p>
 
-> 🎮 A snake that literally eats my contribution graph — powered by a GitHub Action that runs automatically. See setup instructions at the bottom of this file if the animation isn't showing yet.
+> 🎮 A snake that eats my real contribution graph, regenerated automatically every day by GitHub Actions.
 
 <br>
 
-## 📊 Live GitHub Stats
+## 📊 Contribution Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shohagranasuvo&show_icons=true&theme=radical&border_radius=10&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shohagranasuvo&theme=radical&border_radius=10" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shohagranasuvo&theme=radical&border_radius=10" alt="GitHub Streak" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohagranasuvo&layout=compact&theme=radical&border_radius=10" height="170" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=shohagranasuvo&theme=radical&no-frame=true&margin-w=10&column=4&row=2" height="170" alt="Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shohagranasuvo&theme=redical&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
-</div>
-
-<br>
-
-## 🎯 Live Coding Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shohagranasuvo&theme=radical&border_radius=10&layout=compact" height="180" alt="WakaTime Stats" />
-</div>
-
-> ⏱️ Connect a [WakaTime](https://wakatime.com) account to light this card up with your real daily coding-time breakdown.
 
 <br>
 
 ## 🌟 Featured Projects
 
-<div align="center">
-
-[![Data-Structure-Code](https://github-readme-stats.vercel.app/api/pin/?username=shohagranasuvo&repo=Data-Structure-Code&theme=radical&border_radius=10)](https://github.com/shohagranasuvo/Data-Structure-Code)
-[![java_code](https://github-readme-stats.vercel.app/api/pin/?username=shohagranasuvo&repo=java_code&theme=radical&border_radius=10)](https://github.com/shohagranasuvo/java_code)
-
-[![QUIZ_MANAGMENT_JAVA_PROJECT](https://github-readme-stats.vercel.app/api/pin/?username=shohagranasuvo&repo=QUIZ_MANAGMENT_JAVA_PROJECT&theme=radical&border_radius=10)](https://github.com/shohagranasuvo/QUIZ_MANAGMENT_JAVA_PROJECT)
-[![Algorithm](https://github-readme-stats.vercel.app/api/pin/?username=shohagranasuvo&repo=Algorithm&theme=radical&border_radius=10)](https://github.com/shohagranasuvo/Algorithm)
-
-</div>
-
 | Project | Description | Tech |
 |---|---|---|
-| [**Data-Structure-Code**](https://github.com/shohagranasuvo/Data-Structure-Code) | Data structure implementations & lab problem solutions, organized topic by topic | C++ |
-| [**java_code**](https://github.com/shohagranasuvo/java_code) | Collection of Java programs from core to advanced topics | Java |
+| [**Machine_Learning**](https://github.com/shohagranasuvo/Machine_Learning) | Machine learning code and projects, including trained models | Python |
+| [**Natural-Language-Processing**](https://github.com/shohagranasuvo/Natural-Language-Processing) | Learning repository for NLP concepts and experiments | Jupyter Notebook |
+| [**Artificial-Intelligent-Course-Lab-code**](https://github.com/shohagranasuvo/Artificial-Intelligent-Course-Lab-code) | Lab code for the Artificial Intelligence course | Jupyter Notebook |
+| [**Research_Methodology**](https://github.com/shohagranasuvo/Research_Methodology) | Code and dataset for research methodology coursework | Jupyter Notebook |
+| [**Compiler-Design-Code**](https://github.com/shohagranasuvo/Compiler-Design-Code) | All code from Compiler Design coursework | C++ |
+| [**Snake-Game**](https://github.com/shohagranasuvo/Snake-Game) | Classic Snake game built with FreeGLUT for a Computer Graphics course | C++ |
+| [**Pharmacy-Stock-and-Sales-Management-System**](https://github.com/shohagranasuvo/Pharmacy-Stock-and-Sales-Management-System_Software-Engineering-Project) | PharmaTrack — a pharmacy stock & sales system, built with full SDLC and Figma design | Software Engineering |
+| [**Data-Structure-Code**](https://github.com/shohagranasuvo/Data-Structure-Code) | Data structure implementations & lab problem solutions, topic by topic | C++ |
 | [**QUIZ_MANAGMENT_JAVA_PROJECT**](https://github.com/shohagranasuvo/QUIZ_MANAGMENT_JAVA_PROJECT) | OOP project: quiz management system with full CRUD + live quiz functionality | Java |
-| [**PYTHON**](https://github.com/shohagranasuvo/PYTHON) | Python practice & projects on the road to AI expertise | Python |
-| [**Algorithm**](https://github.com/shohagranasuvo/Algorithm) | Algorithm implementations from 5th semester coursework | C++ |
+| [**C-Sharp-Project**](https://github.com/shohagranasuvo/C-Sharp-Project) | Ongoing collection of C# code and mini projects | C# |
+
+*Explore all [27 repositories](https://github.com/shohagranasuvo?tab=repositories) for more.*
 
 <br>
 
@@ -107,14 +83,6 @@ fun_fact: "I debug faster than I sleep 😴"
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Coding Quote" />
 </div>
-
-<br>
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api?username=shohagranasuvo" alt="Achievements" />
-</p>
 
 <br>
 
