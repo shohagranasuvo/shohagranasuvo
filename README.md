@@ -1,63 +1,79 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=800&color=FF0066&center=true&vCenter=true&width=650&lines=I'm+Shohag+Rana+Shuvo;I+love+coding;Exploring+new+technologies;Passionate+about+AI;Eager+to+learn+and+grow" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=800&color=FF0066&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Shohag+Rana+Suvo;CSE+Student+%40+AIUB;Competitive+Programmer;AI+%26+Machine+Learning+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shohagranasuvo&color=ff0066&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <a href="https://github.com/shohagranasuvo?tab=followers">
+    <img src="https://img.shields.io/github/followers/shohagranasuvo?label=Followers&style=flat-square&color=ff0066" alt="Followers" />
+  </a>
+</p>
+
 ---
 
-## 🧠 **Who’s This Code Maverick?**
-I’m **Shohag Rana Suvo**—a dedicated **Computer Science & Engineering (CSE)** student at **American International University-Bangladesh (AIUB)**, delving into the realms of **Artificial Intelligence**, **algorithm development**, and **innovative coding**. I thrive on tackling complex challenges and developing solutions that push the boundaries of conventional thinking.
+## 🧠 About Me
+
+I'm **Shohag Rana Suvo**, a **Computer Science & Engineering (CSE)** student at **American International University-Bangladesh (AIUB)**, based in Dhaka, Bangladesh. I enjoy solving problems through code, exploring **Artificial Intelligence**, and building projects that turn theory into working software.
 
 - 🎓 **Education:** B.Sc. in CSE @ American International University-Bangladesh
-- ⚡ **Expertise:** C++ | Java | Competitive Programming | Problem-Solving
-- 🎯 **Currently Learning:** Python | Advanced Algorithms
-- 🌌 **Interests:** Artificial Intelligence | Data Structures | Machine Learning
-- 💥 **Goal:** To engineer cutting-edge AI systems that expand the horizons of technology
+- ⚡ **Core Skills:** C++ | Java | Data Structures | Competitive Programming
+- 🎯 **Currently Learning:** Python | Advanced Algorithms | Machine Learning
+- 🌌 **Interests:** Artificial Intelligence | Algorithm Design | Software Engineering
+- 💥 **Goal:** Building intelligent, efficient systems that solve real problems
+- 📫 **Reach me at:** shohagranasuvo@gmail.com
 
 ---
 
-## ⚙️ **My Tech Arsenal**
-Equipped with tools to navigate the digital landscape:
+## ⚙️ Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,git,github,linux,vscode" alt="Tech Stack" />
 </p>
 
 ---
 
-## 📊 **GitHub Overview**
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShohagRanaSuvo&show_icons=true&theme=radical&border_radius=10" height="180" alt="GitHub Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ShohagRanaSuvo&theme=radical&no-frame=true&margin-w=15&column=6" height="180" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shohagranasuvo&show_icons=true&theme=radical&border_radius=10&hide_border=false" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shohagranasuvo&theme=radical&border_radius=10" height="180" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shohagranasuvo&theme=radical&no-frame=true&margin-w=15&column=6" height="150" alt="Trophies" />
 </div>
 
 ---
 
-## 🌟 **Highlighted Projects**
-Explore some of my notable work:
-- **Library Management System**  
-  A Java-based application designed to efficiently manage library operations.
-- **AI Chatbot**  
-  An intelligent chatbot utilizing Natural Language Processing. *[In Development]*
-- **Secure Password Manager**  
-  An encrypted tool for secure password storage.
+## 🌟 Featured Projects
 
-*Visit my repositories for detailed insights and code.*
+| Project | Description | Tech |
+|---|---|---|
+| [**Data-Structure-Code**](https://github.com/shohagranasuvo/Data-Structure-Code) | Data structure implementations and lab problem solutions, organized topic by topic | C++ |
+| [**java_code**](https://github.com/shohagranasuvo/java_code) | Collection of Java programs covering core to advanced topics | Java |
+| [**QUIZ_MANAGMENT_JAVA_PROJECT**](https://github.com/shohagranasuvo/QUIZ_MANAGMENT_JAVA_PROJECT) | OOP project: a quiz management system with full CRUD operations and live quiz functionality | Java |
+| [**PYTHON**](https://github.com/shohagranasuvo/PYTHON) | Python practice and projects on the path toward AI expertise | Python |
+| [**Algorithm**](https://github.com/shohagranasuvo/Algorithm) | Algorithm implementations from 5th semester coursework | C++ |
+
+*Check out all my [repositories](https://github.com/shohagranasuvo?tab=repositories) for more.*
 
 ---
 
-## 💡 **Inspirational Coding Quote**
+## 💡 Quote
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Coding Quote" />
 </div>
 
 ---
 
-## 🌐 **Connect With Me**
-Feel free to reach out through:
+## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/shohag-rana-suvo-81041528b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/ShohagRanaSuvo">
+  <a href="https://github.com/shohagranasuvo">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.facebook.com/SHOHAGRANASUVO">
@@ -70,5 +86,6 @@ Feel free to reach out through:
 
 ---
 
-### 🔥 **Collaborate on Innovative Projects**
-I'm eager to partner with like-minded individuals to create groundbreaking technologies. Let's connect and turn ideas into reality!
+<p align="center">
+  <i>🔥 Open to collaborating on interesting projects — let's connect and build something great!</i>
+</p>
