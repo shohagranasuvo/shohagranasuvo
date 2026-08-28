@@ -28,3 +28,5 @@ jobs:
           plugin_habits: no
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
