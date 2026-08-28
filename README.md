@@ -3,9 +3,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,7,10,15,20&height=220&section=header&text=Shohag%20Rana%20Suvo&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=CSE%20Student%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=FF0066&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Shohag+%F0%9F%91%8B;CSE+Undergrad+%40+AIUB+%F0%9F%8E%93;Competitive+Programmer+%E2%9A%A1;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shohagranasuvo&color=ff0066&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/shohagranasuvo?label=FOLLOWERS&style=for-the-badge&color=ff0066" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=shohagranasuvo&color=ff0066&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/shohagranasuvo?label=FOLLOWERS&style=flat-square&color=ff0066" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=ff0066&style=flat-square&label=REPOS&query=public_repos&url=https://api.github.com/users/shohagranasuvo" alt="Repos" />
 </p>
 
 </div>
@@ -51,7 +53,26 @@ fun_fact: "I debug faster than I sleep 😴"
 
 <br>
 
-## 📊 Contribution Streak
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+> 📡 This list updates itself every 6 hours via GitHub Actions — showing my latest commits, PRs, issues, and stars in real time.
+
+<br>
+
+## 📊 Metrics Dashboard
+
+<p align="center">
+  <img src="./metrics.svg" alt="Metrics Dashboard" width="100%"/>
+</p>
+
+> 🛠️ Self-hosted dashboard (languages, habits, contribution calendar) — generated inside my own repo, so it never goes down from shared traffic limits.
+
+<br>
+
+## 📈 Contribution Streak
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shohagranasuvo&theme=radical&border_radius=10" alt="GitHub Streak" />
@@ -82,6 +103,14 @@ fun_fact: "I debug faster than I sleep 😴"
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Coding Quote" />
+</div>
+
+<br>
+
+## 😄 Random Dev Joke
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Random Dev Joke" />
 </div>
 
 <br>
