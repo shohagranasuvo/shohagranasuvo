@@ -14,10 +14,10 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34
         with:
           filename: metrics.svg
-          token: ${{ secrets.PAT_1 }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           user: shohagranasuvo
           template: classic
           base: header, activity, community, repositories, metadata
