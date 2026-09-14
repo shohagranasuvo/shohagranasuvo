@@ -96,10 +96,10 @@ I build practical software at the intersection of **AI, computer vision, NLP, an
 | [**Machine_Learning**](https://github.com/shohagranasuvo/Machine_Learning) | Machine-learning studies, experiments, and model-training projects | Python |
 | [**Natural-Language-Processing**](https://github.com/shohagranasuvo/Natural-Language-Processing) | NLP learning, experiments, notebooks, and course projects | Jupyter Notebook |
 | [**artificial-intelligence-course-labs**](https://github.com/shohagranasuvo/artificial-intelligence-course-labs) | Lab code for the Artificial Intelligence course | Jupyter Notebook |
-| [**Research_Methodology**](https://github.com/shohagranasuvo/research-methodology-projects) | Research notebooks, datasets, and reproducible coursework experiments | Jupyter Notebook |
+| [**research-methodology-projects**](https://github.com/shohagranasuvo/research-methodology-projects) | Research notebooks, datasets, and reproducible coursework experiments | Jupyter Notebook |
 | [**Compiler-Design-Code**](https://github.com/shohagranasuvo/Compiler-Design-Code) | All code from Compiler Design coursework | C++ |
 | [**Snake-Game**](https://github.com/shohagranasuvo/Snake-Game) | Classic Snake game built with FreeGLUT for a Computer Graphics course | C++ |
-| [**Pharmacy-Stock-and-Sales-Management-System**](https://github.com/shohagranasuvo/pharmatrack) | PharmaTrack — a pharmacy stock & sales system, built with full SDLC and Figma design | Software Engineering |
+| [**pharmatrack**](https://github.com/shohagranasuvo/pharmatrack) | PharmaTrack — a pharmacy stock & sales system, built with full SDLC and Figma design | Software Engineering |
 | [**Data-Structure-Code**](https://github.com/shohagranasuvo/Data-Structure-Code) | Data structure implementations & lab problem solutions, topic by topic | C++ |
 | [**quiz-management-java-project**](https://github.com/shohagranasuvo/quiz-management-java-project) | OOP project: quiz management system with full CRUD + live quiz functionality | Java |
 | [**C-Sharp-Project**](https://github.com/shohagranasuvo/C-Sharp-Project) | Ongoing collection of C# code and mini projects | C# |
