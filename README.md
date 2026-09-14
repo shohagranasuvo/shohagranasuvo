@@ -95,13 +95,13 @@ I build practical software at the intersection of **AI, computer vision, NLP, an
 | [**MIRRORA**](https://github.com/shohagranasuvo/mirrora) | Privacy-aware AI virtual fitting mirror with local pose tracking, procedural 3D try-on, fit analysis, demo mode, and CI | React · Three.js · MediaPipe · TypeScript |
 | [**Machine_Learning**](https://github.com/shohagranasuvo/Machine_Learning) | Machine-learning studies, experiments, and model-training projects | Python |
 | [**Natural-Language-Processing**](https://github.com/shohagranasuvo/Natural-Language-Processing) | NLP learning, experiments, notebooks, and course projects | Jupyter Notebook |
-| [**Artificial-Intelligent-Course-Lab-code**](https://github.com/shohagranasuvo/Artificial-Intelligent-Course-Lab-code) | Lab code for the Artificial Intelligence course | Jupyter Notebook |
-| [**Research_Methodology**](https://github.com/shohagranasuvo/Research_Methodology) | Research notebooks, datasets, and reproducible coursework experiments | Jupyter Notebook |
+| [**artificial-intelligence-course-labs**](https://github.com/shohagranasuvo/artificial-intelligence-course-labs) | Lab code for the Artificial Intelligence course | Jupyter Notebook |
+| [**Research_Methodology**](https://github.com/shohagranasuvo/research-methodology-projects) | Research notebooks, datasets, and reproducible coursework experiments | Jupyter Notebook |
 | [**Compiler-Design-Code**](https://github.com/shohagranasuvo/Compiler-Design-Code) | All code from Compiler Design coursework | C++ |
 | [**Snake-Game**](https://github.com/shohagranasuvo/Snake-Game) | Classic Snake game built with FreeGLUT for a Computer Graphics course | C++ |
-| [**Pharmacy-Stock-and-Sales-Management-System**](https://github.com/shohagranasuvo/Pharmacy-Stock-and-Sales-Management-System_Software-Engineering-Project) | PharmaTrack — a pharmacy stock & sales system, built with full SDLC and Figma design | Software Engineering |
+| [**Pharmacy-Stock-and-Sales-Management-System**](https://github.com/shohagranasuvo/pharmatrack) | PharmaTrack — a pharmacy stock & sales system, built with full SDLC and Figma design | Software Engineering |
 | [**Data-Structure-Code**](https://github.com/shohagranasuvo/Data-Structure-Code) | Data structure implementations & lab problem solutions, topic by topic | C++ |
-| [**QUIZ_MANAGMENT_JAVA_PROJECT**](https://github.com/shohagranasuvo/QUIZ_MANAGMENT_JAVA_PROJECT) | OOP project: quiz management system with full CRUD + live quiz functionality | Java |
+| [**quiz-management-java-project**](https://github.com/shohagranasuvo/quiz-management-java-project) | OOP project: quiz management system with full CRUD + live quiz functionality | Java |
 | [**C-Sharp-Project**](https://github.com/shohagranasuvo/C-Sharp-Project) | Ongoing collection of C# code and mini projects | C# |
 
 *Explore all [28 repositories](https://github.com/shohagranasuvo?tab=repositories) for more.*
