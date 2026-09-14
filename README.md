@@ -33,6 +33,14 @@ fun_fact: "I debug faster than I sleep 😴"
 - 🌱 Long-term goal: build intelligent systems that solve real problems
 - 📫 Reach me at **shohagranasuvo@gmail.com**
 
+### What I am building
+
+I build practical software at the intersection of **AI, computer vision, NLP, and interactive applications**. My current flagship project is **MIRRORA**, a privacy-aware virtual fitting mirror prototype combining React, Three.js, MediaPipe, and transparent fit estimation.
+
+- 🔭 Current focus: AI-assisted products, computer vision, NLP, and reliable developer workflows
+- 🧪 Engineering approach: prototype honestly, document limitations, test important logic, and iterate
+- 🤝 Open to: collaborative projects, research, and opportunities to build useful intelligent systems
+
 <br>
 
 ## ⚙️ Tech Arsenal
@@ -84,10 +92,11 @@ fun_fact: "I debug faster than I sleep 😴"
 
 | Project | Description | Tech |
 |---|---|---|
-| [**Machine_Learning**](https://github.com/shohagranasuvo/Machine_Learning) | Machine learning code and projects, including trained models | Python |
-| [**Natural-Language-Processing**](https://github.com/shohagranasuvo/Natural-Language-Processing) | Learning repository for NLP concepts and experiments | Jupyter Notebook |
+| [**MIRRORA**](https://github.com/shohagranasuvo/mirrora) | Privacy-aware AI virtual fitting mirror with local pose tracking, procedural 3D try-on, fit analysis, demo mode, and CI | React · Three.js · MediaPipe · TypeScript |
+| [**Machine_Learning**](https://github.com/shohagranasuvo/Machine_Learning) | Machine-learning studies, experiments, and model-training projects | Python |
+| [**Natural-Language-Processing**](https://github.com/shohagranasuvo/Natural-Language-Processing) | NLP learning, experiments, notebooks, and course projects | Jupyter Notebook |
 | [**Artificial-Intelligent-Course-Lab-code**](https://github.com/shohagranasuvo/Artificial-Intelligent-Course-Lab-code) | Lab code for the Artificial Intelligence course | Jupyter Notebook |
-| [**Research_Methodology**](https://github.com/shohagranasuvo/Research_Methodology) | Code and dataset for research methodology coursework | Jupyter Notebook |
+| [**Research_Methodology**](https://github.com/shohagranasuvo/Research_Methodology) | Research notebooks, datasets, and reproducible coursework experiments | Jupyter Notebook |
 | [**Compiler-Design-Code**](https://github.com/shohagranasuvo/Compiler-Design-Code) | All code from Compiler Design coursework | C++ |
 | [**Snake-Game**](https://github.com/shohagranasuvo/Snake-Game) | Classic Snake game built with FreeGLUT for a Computer Graphics course | C++ |
 | [**Pharmacy-Stock-and-Sales-Management-System**](https://github.com/shohagranasuvo/Pharmacy-Stock-and-Sales-Management-System_Software-Engineering-Project) | PharmaTrack — a pharmacy stock & sales system, built with full SDLC and Figma design | Software Engineering |
@@ -95,7 +104,7 @@ fun_fact: "I debug faster than I sleep 😴"
 | [**QUIZ_MANAGMENT_JAVA_PROJECT**](https://github.com/shohagranasuvo/QUIZ_MANAGMENT_JAVA_PROJECT) | OOP project: quiz management system with full CRUD + live quiz functionality | Java |
 | [**C-Sharp-Project**](https://github.com/shohagranasuvo/C-Sharp-Project) | Ongoing collection of C# code and mini projects | C# |
 
-*Explore all [27 repositories](https://github.com/shohagranasuvo?tab=repositories) for more.*
+*Explore all [28 repositories](https://github.com/shohagranasuvo?tab=repositories) for more.*
 
 <br>
 
