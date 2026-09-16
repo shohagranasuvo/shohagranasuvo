@@ -64,8 +64,8 @@ I build practical software at the intersection of **AI, computer vision, NLP, an
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/shohagranasuvo/python-projects/pull/2) in [shohagranasuvo/python-projects](https://github.com/shohagranasuvo/python-projects)
-2. 💪 Opened PR [#2](https://github.com/shohagranasuvo/python-projects/pull/2) in [shohagranasuvo/python-projects](https://github.com/shohagranasuvo/python-projects)
+1. ❌ Closed PR [#1](https://github.com/shohagranasuvo/fun/pull/1) in [shohagranasuvo/fun](https://github.com/shohagranasuvo/fun)
+2. 🎉 Merged PR [#2](https://github.com/shohagranasuvo/python-projects/pull/2) in [shohagranasuvo/python-projects](https://github.com/shohagranasuvo/python-projects)
 <!--END_SECTION:activity-->
 
 > 📡 This list updates itself every 6 hours via GitHub Actions — showing my latest commits, PRs, issues, and stars in real time.
