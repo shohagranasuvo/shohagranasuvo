@@ -64,8 +64,8 @@ I build practical software at the intersection of **AI, computer vision, NLP, an
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Google Photos Unlimited & Security Hardened (v7.45.0)](https://github.com/shohagranasuvo/Google_Photos_Unlimited/releases/tag/v7.45.0-remediated) in [shohagranasuvo/Google_Photos_Unlimited](https://github.com/shohagranasuvo/Google_Photos_Unlimited)
-2. 🚀 Published release [Nothing X Mod v1.0.0 (Sleep Timer & Real-Time Telemetry)](https://github.com/shohagranasuvo/Nothing_X/releases/tag/v1.0.0) in [shohagranasuvo/Nothing_X](https://github.com/shohagranasuvo/Nothing_X)
+1. 🚀 Published release [v2.4.0 — Antigravity Universal Web AI Bridge (Fixed by Shohag Rana Suvo)](https://github.com/shohagranasuvo/antigravity-universal-ai-bridge/releases/tag/v2.4.0) in [shohagranasuvo/antigravity-universal-ai-bridge](https://github.com/shohagranasuvo/antigravity-universal-ai-bridge)
+2. 🚀 Published release [Google Photos Unlimited & Security Hardened (v7.45.0)](https://github.com/shohagranasuvo/Google_Photos_Unlimited/releases/tag/v7.45.0-remediated) in [shohagranasuvo/Google_Photos_Unlimited](https://github.com/shohagranasuvo/Google_Photos_Unlimited)
 <!--END_SECTION:activity-->
 
 > 📡 This list updates itself every 6 hours via GitHub Actions — showing my latest commits, PRs, issues, and stars in real time.
