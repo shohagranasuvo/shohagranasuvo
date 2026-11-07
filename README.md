@@ -64,8 +64,8 @@ I build practical software at the intersection of **AI, computer vision, NLP, an
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0 - Linux Fingerprint Sensor Solution](https://github.com/shohagranasuvo/linux-fingerprint-sensor-solution/releases/tag/v1.0.0) in [shohagranasuvo/linux-fingerprint-sensor-solution](https://github.com/shohagranasuvo/linux-fingerprint-sensor-solution)
-2. 🚀 Published release [v2.4.0 — Antigravity Universal Web AI Bridge (Fixed by Shohag Rana Suvo)](https://github.com/shohagranasuvo/antigravity-universal-ai-bridge/releases/tag/v2.4.0) in [shohagranasuvo/antigravity-universal-ai-bridge](https://github.com/shohagranasuvo/antigravity-universal-ai-bridge)
+1. 🚀 Published release [v1.1.0 - Goodix GM168 Linux Biometric Suite (Stable Release)](https://github.com/shohagranasuvo/linux-fingerprint-sensor-solution/releases/tag/v1.1.0) in [shohagranasuvo/linux-fingerprint-sensor-solution](https://github.com/shohagranasuvo/linux-fingerprint-sensor-solution)
+2. 🚀 Published release [v1.0.0 - Linux Fingerprint Sensor Solution](https://github.com/shohagranasuvo/linux-fingerprint-sensor-solution/releases/tag/v1.0.0) in [shohagranasuvo/linux-fingerprint-sensor-solution](https://github.com/shohagranasuvo/linux-fingerprint-sensor-solution)
 <!--END_SECTION:activity-->
 
 > 📡 This list updates itself every 6 hours via GitHub Actions — showing my latest commits, PRs, issues, and stars in real time.
