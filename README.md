@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,7,10,15,20&height=220&section=header&text=Shohag%20Rana%20Suvo&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=CSE%20Student%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,7,10,15,20&height=220&section=header&text=Shohag%20Rana%20Suvo&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Privacy-First%20AI%20Systems%20%7C%20Full-Stack%20%26%20Linux%20Engineer%20%7C%20CSE%20%40%20AIUB&descAlignY=55&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=FF0066&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Shohag+%F0%9F%91%8B;CSE+Undergrad+%40+AIUB+%F0%9F%8E%93;Competitive+Programmer+%E2%9A%A1;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=10B981&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Shohag+Rana+%F0%9F%91%8B;Building+Privacy-First+AI+Data+Control+Center+%F0%9F%9B%A1%EF%B8%8F;Backend+(NestJS+%2F+Fastify+%2F+PostgreSQL)+%26+Linux+Tooling+%E2%9A%A1;CSE+Undergrad+%40+AIUB+%7C+AI%2C+Security+%26+Systems+%F0%9F%8E%93" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shohagranasuvo&color=ff0066&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/shohagranasuvo?label=FOLLOWERS&style=flat-square&color=ff0066" alt="Followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=ff0066&style=flat-square&label=REPOS&query=public_repos&url=https://api.github.com/users/shohagranasuvo" alt="Repos" />
+  <a href="https://shohagrana.me/"><img src="https://img.shields.io/badge/PORTFOLIO-shohagrana.me-10B981?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <img src="https://komarev.com/ghpvc/?username=shohagranasuvo&color=10b981&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/shohagranasuvo?label=FOLLOWERS&style=flat-square&color=10b981" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=10b981&style=flat-square&label=PUBLIC+REPOS&query=public_repos&url=https://api.github.com/users/shohagranasuvo" alt="Repos" />
 </p>
 
 </div>
@@ -18,36 +19,45 @@
 
 ```yaml
 name: Shohag Rana Suvo
-role: Computer Science & Engineering Student
+role: Software Engineer & CSE Undergrad
 university: American International University-Bangladesh (AIUB)
 location: Dhaka, Bangladesh
-focus: [ Artificial Intelligence, Machine Learning, NLP, Algorithms ]
-currently_learning: [ Python, Advanced Data Structures, Deep Learning ]
-fun_fact: "I debug faster than I sleep 😴"
+current_org: "@Privacy-First-AI-Data-Control-Center"
+focus: [ AI Privacy & Security, Backend Architecture, Linux Systems, NLP & ML ]
+stack: [ TypeScript, NestJS, Fastify, PostgreSQL, Python, C++, Linux ]
+website: https://shohagrana.me/
 ```
 
-- 🎓 B.Sc. in CSE @ American International University-Bangladesh
-- ⚡ Comfortable in **C++**, **Java**, and **C#**, sharpening skills in **Python**
-- 🤖 Actively building in **AI, Machine Learning, and NLP** — coursework and self-driven projects
-- 🧩 Love competitive programming and untangling hard algorithmic problems
-- 🌱 Long-term goal: build intelligent systems that solve real problems
-- 📫 Reach me at **shohagranasuvo@gmail.com**
-
-### What I am building
-
-I build practical software at the intersection of **AI, computer vision, NLP, and interactive applications**. My current flagship project is **MIRRORA**, a privacy-aware virtual fitting mirror prototype combining React, Three.js, MediaPipe, and transparent fit estimation.
-
-- 🔭 Current focus: AI-assisted products, computer vision, NLP, and reliable developer workflows
-- 🧪 Engineering approach: prototype honestly, document limitations, test important logic, and iterate
-- 🤝 Open to: collaborative projects, research, and opportunities to build useful intelligent systems
+- 🛡️ Co-building **[Privacy-First AI Data Control Center](https://github.com/Privacy-First-AI-Data-Control-Center/Privacy-First-AI-Data-Control-Center)** — a sub-5ms local hook guardrail & NestJS governance platform for AI coding assistants (`Claude Code`, `Cursor`, `Antigravity`, `Gemini CLI`).
+- 🐧 Passionate about **Linux systems, hardware drivers, zero-knowledge backups, and developer tooling**.
+- 🤖 Strong foundation in **AI, Machine Learning, NLP, and Competitive Programming** (`C++`, `Python`, `TypeScript`, `Java`, `C#`).
+- 🌐 Portfolio: **[shohagrana.me](https://shohagrana.me/)** · 📫 Email: **shohagranasuvo@gmail.com**
 
 <br>
 
-## ⚙️ Tech Arsenal
+## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,cs,git,github,linux,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,postgres,python,cpp,java,cs,linux,bash,docker,git,github,vscode" alt="Tech Stack" />
 </p>
+
+<br>
+
+## 🌟 Flagship & Featured Projects
+
+| Project | Highlights | Tech |
+| :--- | :--- | :--- |
+| 🛡️ [**Privacy-First AI Data Control Center**](https://github.com/Privacy-First-AI-Data-Control-Center/Privacy-First-AI-Data-Control-Center) | Real-time `<5ms` local `PreToolUse` policy blocker + `node:sqlite` offline queue & NestJS governance plane (140 REST endpoints, 29 entities, RBAC, Railway deployment) | TypeScript · NestJS · Fastify · PostgreSQL |
+| 🔐 [**linux-fingerprint-sensor-solution**](https://github.com/shohagranasuvo/linux-fingerprint-sensor-solution) | Complete Linux Biometric Suite & driver solution for Goodix capacitive sensors (`27c6:581a`, `27c6:589a`) with reboot detection & USB autosuspend fix (`v1.1.1`) | Python · Linux · USB/Driver Tooling |
+| 🌉 [**antigravity-universal-ai-bridge**](https://github.com/shohagranasuvo/antigravity-universal-ai-bridge) | Multi-client MCP bridge connecting Google Antigravity IDE/CLI with Web AI providers (Gemini, Claude, ChatGPT, DeepSeek) | JavaScript · MCP · Node.js |
+| ☁️ [**secure-google-drive-backup**](https://github.com/shohagranasuvo/secure-google-drive-backup) | Zero-knowledge client-side encrypted full-PC Google Drive backup with `rclone crypt`, systemd auto-mount & MCP server | Shell · rclone · systemd · Linux |
+| ⌚ [**Nothing_X**](https://github.com/shohagranasuvo/Nothing_X) | Unofficial reverse-engineered Nothing X customization adding automatic sleep detection, phone alarms & smartwatch vibration alerts | Smali · Android Reverse Engineering |
+| 🏎️ [**neon-rush**](https://github.com/shohagranasuvo/neon-rush) | Polished futuristic browser survival racer with smooth physics and neon visuals | TypeScript · HTML5 Canvas |
+| 🤖 [**Natural-Language-Processing**](https://github.com/shohagranasuvo/Natural-Language-Processing) & [**machine-learning**](https://github.com/shohagranasuvo/machine-learning) | NLP pipelines, ML model training experiments, and reproducible research notebooks | Python · Jupyter Notebook |
+| 📊 [**data-science-course-project**](https://github.com/shohagranasuvo/data-science-course-project) | Heart Disease UCI statistical analysis, preprocessing, EDA, feature engineering & class balancing | R · Data Science |
+| 🧩 [**Compiler-Design-Code**](https://github.com/shohagranasuvo/Compiler-Design-Code) & [**Data-Structure-Code**](https://github.com/shohagranasuvo/Data-Structure-Code) | Compiler construction labs, core data structures, and competitive programming implementations | C++ |
+
+*Explore all [public repositories](https://github.com/shohagranasuvo?tab=repositories) and the [@Privacy-First-AI-Data-Control-Center](https://github.com/Privacy-First-AI-Data-Control-Center) organization for more.*
 
 <br>
 
@@ -57,7 +67,7 @@ I build practical software at the intersection of **AI, computer vision, NLP, an
   <img src="https://raw.githubusercontent.com/shohagranasuvo/shohagranasuvo/output/github-contribution-grid-snake.svg" alt="Snake animation eating my contribution graph" width="100%"/>
 </p>
 
-> 🎮 A snake that eats my real contribution graph, regenerated automatically every day by GitHub Actions.
+> 🎮 Regenerated automatically every day via GitHub Actions.
 
 <br>
 
@@ -68,60 +78,18 @@ I build practical software at the intersection of **AI, computer vision, NLP, an
 2. 🚀 Published release [v1.1.0 - Goodix GM168 Linux Biometric Suite (Stable Release)](https://github.com/shohagranasuvo/linux-fingerprint-sensor-solution/releases/tag/v1.1.0) in [shohagranasuvo/linux-fingerprint-sensor-solution](https://github.com/shohagranasuvo/linux-fingerprint-sensor-solution)
 <!--END_SECTION:activity-->
 
-> 📡 This list updates itself every 6 hours via GitHub Actions — showing my latest commits, PRs, issues, and stars in real time.
+> 📡 Updated automatically every 6 hours via GitHub Actions.
 
 <br>
 
-## 📊 Metrics Dashboard
+## 📊 Metrics Dashboard & Streak
 
 <p align="center">
   <img src="./metrics.svg" alt="Metrics Dashboard" width="100%"/>
 </p>
 
-> 🛠️ Self-hosted dashboard (languages, habits, contribution calendar) — generated inside my own repo, so it never goes down from shared traffic limits.
-
-<br>
-
-## 📈 Contribution Streak
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shohagranasuvo&theme=radical&border_radius=10" alt="GitHub Streak" />
-</div>
-
-<br>
-
-## 🌟 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [**MIRRORA**](https://github.com/shohagranasuvo/mirrora) | Privacy-aware AI virtual fitting mirror with local pose tracking, procedural 3D try-on, fit analysis, demo mode, and CI | React · Three.js · MediaPipe · TypeScript |
-| [**Machine_Learning**](https://github.com/shohagranasuvo/Machine_Learning) | Machine-learning studies, experiments, and model-training projects | Python |
-| [**Natural-Language-Processing**](https://github.com/shohagranasuvo/Natural-Language-Processing) | NLP learning, experiments, notebooks, and course projects | Jupyter Notebook |
-| [**artificial-intelligence-course-labs**](https://github.com/shohagranasuvo/artificial-intelligence-course-labs) | Lab code for the Artificial Intelligence course | Jupyter Notebook |
-| [**research-methodology-projects**](https://github.com/shohagranasuvo/research-methodology-projects) | Research notebooks, datasets, and reproducible coursework experiments | Jupyter Notebook |
-| [**Compiler-Design-Code**](https://github.com/shohagranasuvo/Compiler-Design-Code) | All code from Compiler Design coursework | C++ |
-| [**Snake-Game**](https://github.com/shohagranasuvo/Snake-Game) | Classic Snake game built with FreeGLUT for a Computer Graphics course | C++ |
-| [**pharmatrack**](https://github.com/shohagranasuvo/pharmatrack) | PharmaTrack — a pharmacy stock & sales system, built with full SDLC and Figma design | Software Engineering |
-| [**Data-Structure-Code**](https://github.com/shohagranasuvo/Data-Structure-Code) | Data structure implementations & lab problem solutions, topic by topic | C++ |
-| [**quiz-management-java-project**](https://github.com/shohagranasuvo/quiz-management-java-project) | OOP project: quiz management system with full CRUD + live quiz functionality | Java |
-| [**C-Sharp-Project**](https://github.com/shohagranasuvo/C-Sharp-Project) | Ongoing collection of C# code and mini projects | C# |
-
-*Explore all [28 repositories](https://github.com/shohagranasuvo?tab=repositories) for more.*
-
-<br>
-
-## 💡 Quote of the Moment
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Coding Quote" />
-</div>
-
-<br>
-
-## 😄 Random Dev Joke
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Random Dev Joke" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shohagranasuvo&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -129,6 +97,9 @@ I build practical software at the intersection of **AI, computer vision, NLP, an
 ## 🌐 Let's Connect
 
 <p align="center">
+  <a href="https://shohagrana.me/">
+    <img src="https://img.shields.io/badge/Website-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
   <a href="https://www.linkedin.com/in/shohag-rana-suvo-81041528b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -145,5 +116,5 @@ I build practical software at the intersection of **AI, computer vision, NLP, an
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,7,10,15,20&height=120&section=footer" width="100%"/>
-  <i>🔥 Open to collaborating on interesting projects — let's build something great together!</i>
+  <i>🔥 Open to collaborating on AI privacy, backend architecture, and Linux systems projects.</i>
 </div>
