@@ -66,7 +66,44 @@ website: https://shohagrana.me/
 
 ---
 
-## 📊 Analytics, Streak & Coding Activity
+## ⏱️ Live WakaTime Coding Analytics
+
+*Real-time IDE & CLI telemetry tracked automatically via WakaTime.*
+
+<table>
+  <tr>
+    <th width="50%">📊 Coding Activity (Last 7 Days)</th>
+    <th width="50%">💻 Languages Breakdown (All Time)</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://wakatime.com/share/@8854ad32-fe0a-4ef7-b6fb-4a5b55ed76a5/bec0bb81-5f9d-4f9b-aa42-a5544a9f1fd7.svg" alt="WakaTime Coding Activity (Last 7 Days)" width="100%" />
+    </td>
+    <td align="center">
+      <img src="https://wakatime.com/share/@8854ad32-fe0a-4ef7-b6fb-4a5b55ed76a5/d51fcf8e-69e0-46b4-8834-39be2d27f21c.svg" alt="WakaTime Languages Breakdown (All Time)" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2">📅 Weekly Coding Rhythm (Average Hours by Day of Week)</th>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://wakatime.com/share/@8854ad32-fe0a-4ef7-b6fb-4a5b55ed76a5/c119e2d2-9156-4daf-b724-e860324a1fe9.svg" alt="WakaTime Weekly Coding Rhythm by Day of Week" width="96%" />
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2">🟩 Daily Coding Consistency Heatmap</th>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://wakatime.com/share/@8854ad32-fe0a-4ef7-b6fb-4a5b55ed76a5/fd1500a8-b947-4d94-8aac-064134b67063.svg" alt="WakaTime Daily Coding Consistency Heatmap" width="76%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Metrics, Streak & Activity
 
 ### 🐍 Contribution Snake
 
