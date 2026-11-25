@@ -68,42 +68,31 @@ website: https://shohagrana.me/
 
 ## ⏱️ Live WakaTime Coding Analytics
 
-*Real-time IDE & CLI telemetry tracked automatically via WakaTime.*
+*Real-time IDE & CLI coding telemetry tracked automatically via WakaTime.*
 
-<table>
-  <tr>
-    <th>📊 Coding Activity (Last 7 Days)</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://wakatime.com/share/@8854ad32-fe0a-4ef7-b6fb-4a5b55ed76a5/bec0bb81-5f9d-4f9b-aa42-a5544a9f1fd7.svg" alt="WakaTime Coding Activity (Last 7 Days)" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <th>💻 Languages Breakdown (All Time)</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://wakatime.com/share/@8854ad32-fe0a-4ef7-b6fb-4a5b55ed76a5/d51fcf8e-69e0-46b4-8834-39be2d27f21c.svg" alt="WakaTime Languages Breakdown (All Time)" width="85%" />
-    </td>
-  </tr>
-  <tr>
-    <th>📅 Weekly Coding Rhythm (Average Hours by Day of Week)</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://wakatime.com/share/@8854ad32-fe0a-4ef7-b6fb-4a5b55ed76a5/c119e2d2-9156-4daf-b724-e860324a1fe9.svg" alt="WakaTime Weekly Coding Rhythm by Day of Week" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <th>🟩 Daily Coding Consistency Heatmap</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://wakatime.com/share/@8854ad32-fe0a-4ef7-b6fb-4a5b55ed76a5/fd1500a8-b947-4d94-8aac-064134b67063.svg" alt="WakaTime Daily Coding Consistency Heatmap" width="88%" />
-    </td>
-  </tr>
-</table>
+### 📊 Coding Activity (Last 7 Days)
+
+<p align="center">
+  <img src="https://wakatime.com/share/@8854ad32-fe0a-4ef7-b6fb-4a5b55ed76a5/bec0bb81-5f9d-4f9b-aa42-a5544a9f1fd7.svg" alt="WakaTime Coding Activity (Last 7 Days)" width="800" />
+</p>
+
+### 💻 Languages Breakdown (All Time)
+
+<p align="center">
+  <img src="https://wakatime.com/share/@8854ad32-fe0a-4ef7-b6fb-4a5b55ed76a5/d51fcf8e-69e0-46b4-8834-39be2d27f21c.svg" alt="WakaTime Languages Breakdown (All Time)" width="760" />
+</p>
+
+### 📅 Weekly Coding Rhythm (Average Hours by Day of Week)
+
+<p align="center">
+  <img src="https://wakatime.com/share/@8854ad32-fe0a-4ef7-b6fb-4a5b55ed76a5/c119e2d2-9156-4daf-b724-e860324a1fe9.svg" alt="WakaTime Weekly Coding Rhythm by Day of Week" width="840" />
+</p>
+
+### 🟩 Daily Coding Consistency Heatmap
+
+<p align="center">
+  <img src="https://wakatime.com/share/@8854ad32-fe0a-4ef7-b6fb-4a5b55ed76a5/fd1500a8-b947-4d94-8aac-064134b67063.svg" alt="WakaTime Daily Coding Consistency Heatmap" width="329" height="132" />
+</p>
 
 ---
 
