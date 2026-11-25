@@ -88,13 +88,6 @@ website: https://shohagrana.me/
   <img src="https://wakatime.com/share/@8854ad32-fe0a-4ef7-b6fb-4a5b55ed76a5/c119e2d2-9156-4daf-b724-e860324a1fe9.svg" alt="WakaTime Weekly Coding Rhythm by Day of Week" width="840" />
 </p>
 
-### 🟩 Daily Coding Consistency Heatmap
-
-<p align="center">
-  <img src="https://wakatime.com/share/@8854ad32-fe0a-4ef7-b6fb-4a5b55ed76a5/fd1500a8-b947-4d94-8aac-064134b67063.svg" alt="WakaTime Daily Coding Consistency Heatmap" width="329" height="132" />
-</p>
-
----
 
 ## 📊 GitHub Metrics, Streak & Activity
 
