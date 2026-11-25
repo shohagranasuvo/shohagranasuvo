@@ -93,8 +93,8 @@ website: https://shohagrana.me/
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.1 - Goodix GM168 Driver: Reboot Detection & USB Autosuspend Fix](https://github.com/shohagranasuvo/linux-fingerprint-sensor-solution/releases/tag/v1.1.1) in [shohagranasuvo/linux-fingerprint-sensor-solution](https://github.com/shohagranasuvo/linux-fingerprint-sensor-solution)
-2. 🚀 Published release [v1.1.0 - Goodix GM168 Linux Biometric Suite (Stable Release)](https://github.com/shohagranasuvo/linux-fingerprint-sensor-solution/releases/tag/v1.1.0) in [shohagranasuvo/linux-fingerprint-sensor-solution](https://github.com/shohagranasuvo/linux-fingerprint-sensor-solution)
+1. 🎉 Merged PR [#2](https://github.com/shohagranasuvo/shohagranasuvo/pull/2) in [shohagranasuvo/shohagranasuvo](https://github.com/shohagranasuvo/shohagranasuvo)
+2. 💪 Opened PR [#2](https://github.com/shohagranasuvo/shohagranasuvo/pull/2) in [shohagranasuvo/shohagranasuvo](https://github.com/shohagranasuvo/shohagranasuvo)
 <!--END_SECTION:activity-->
 
 ---
