@@ -116,8 +116,8 @@ website: https://shohagrana.me/
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/shohagranasuvo/shohagranasuvo/pull/2) in [shohagranasuvo/shohagranasuvo](https://github.com/shohagranasuvo/shohagranasuvo)
-2. 💪 Opened PR [#2](https://github.com/shohagranasuvo/shohagranasuvo/pull/2) in [shohagranasuvo/shohagranasuvo](https://github.com/shohagranasuvo/shohagranasuvo)
+1. ❌ Closed PR [#5](https://github.com/shohagranasuvo/shohagranasuvo/pull/5) in [shohagranasuvo/shohagranasuvo](https://github.com/shohagranasuvo/shohagranasuvo)
+2. 💪 Opened PR [#5](https://github.com/shohagranasuvo/shohagranasuvo/pull/5) in [shohagranasuvo/shohagranasuvo](https://github.com/shohagranasuvo/shohagranasuvo)
 <!--END_SECTION:activity-->
 
 ---
